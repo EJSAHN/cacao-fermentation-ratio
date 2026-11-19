@@ -1,0 +1,5 @@
+Software and data rights
+
+The original analysis software prepared by USDA Agricultural Research Service employees in the course of their official duties is a work of the United States Government and is in the public domain in the United States under 17 U.S.C. § 105(a). This notice describes its U.S. copyright status. For the statutory text see https://uscode.house.gov/us/usc/t17/s105/.
+
+The measurements in data/ come from the authors and publishers listed in DATA.md. Data-specific terms, including the noncommercial condition on the Ecuador source, are recorded in data/LICENSE.md. Those terms follow the source material in copies and extracts, including files that also contain new calculations.
